@@ -1,7 +1,7 @@
 # Simple Bank Account
 ## Introduction
 Simple Bank Account is a program that has basic functions of calculations on an account's balance.
-The purpose of creating this program is to support the build iteration of Basic Banking System firstly by developing the main functions.
+The purpose of creating this program is to support the build iteration of **Basic Banking System** firstly by developing the main functions.
 
 ## Functionality
 The program has two main basic functionalities. These functions are:
