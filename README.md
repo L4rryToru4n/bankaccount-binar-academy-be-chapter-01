@@ -14,7 +14,11 @@ Each function has several supporting functions that perform checks on inputs bef
 The program only use a plain JavaScript and HTML for displaying outputs.
 
 ## Setup
-In order to do demo, clone the project by typing this command into the terminal: `git clone https://github.com/L4rryToru4n/bankaccount-binar-academy-be-chapter-01.git` or download the project then extract the .zip file.
+In order to do demo, clone the project by typing this command into the terminal:
+```
+git clone https://github.com/L4rryToru4n/bankaccount-binar-academy-be-chapter-01.git
+```
+or download the project then extract the .zip file.
 
 ## Usage Instructions
 After downloading or cloning the repository, open the directory project using a browser and type `index.html` to view the program. For performing a calculation, click either the `Tambah Saldo` or `Kurangi Saldo` button and input any numbers inside the input box then enter. The result should be then displayed above the input elements.
